@@ -1,0 +1,201 @@
+{
+  "@@last_modified": "2019-07-02T08:19:13.674694",
+  "appTitle": "Outil Ebola",
+  "@appTitle": {
+    "description": "Short title for the application",
+    "type": "text",
+    "placeholders": {}
+  },
+  "mainTitle": "Outil d’estimation de la fenêtre d’exposition au virus Ebola",
+  "@mainTitle": {
+    "description": "Long title for the application",
+    "type": "text",
+    "placeholders": {}
+  },
+  "calcSymptomsChoice": "Date de Début de Symptômes:",
+  "@calcSymptomsChoice": {
+    "description": "Title for symptoms calculator choice",
+    "type": "text",
+    "placeholders": {}
+  },
+  "calcDeathChoice": "Date du Décès:",
+  "@calcDeathChoice": {
+    "description": "Title for death calculator choice",
+    "type": "text",
+    "placeholders": {}
+  },
+  "incubationPeriodTitle": "Période d'Incubation pour la Maladie à Virus Ebola",
+  "@incubationPeriodTitle": {
+    "description": "Title for incubation period configuration section",
+    "type": "text",
+    "placeholders": {}
+  },
+  "incubationPeriodDesc": "Utiliser les critères ci-dessous pour modifier la période d’incubation afin d’estimer la fenêtre d’exposition d’Ebola. En générale, il ne faut pas modifier.  Changer seulement si nécessaire.",
+  "@incubationPeriodDesc": {
+    "description": "Description for incubation period configuration section",
+    "type": "text",
+    "placeholders": {}
+  },
+  "minLabel": "min",
+  "@minLabel": {
+    "description": "Label for min value",
+    "type": "text",
+    "placeholders": {}
+  },
+  "maxLabel": "max",
+  "@maxLabel": {
+    "description": "Label for max value",
+    "type": "text",
+    "placeholders": {}
+  },
+  "daysLabel": "jours",
+  "@daysLabel": {
+    "description": "Label for days",
+    "type": "text",
+    "placeholders": {}
+  },
+  "editLabel": "Modifier",
+  "@editLabel": {
+    "description": "Label for edit button",
+    "type": "text",
+    "placeholders": {}
+  },
+  "openLabel": "Ouvrir",
+  "@openLabel": {
+    "description": "Label for open button",
+    "type": "text",
+    "placeholders": {}
+  },
+  "symptomOnsetSubtitle": "(En fonction de la date de début de symptômes)",
+  "@symptomOnsetSubtitle": {
+    "description": "Subtitle for date of symptoms onset calculator",
+    "type": "text",
+    "placeholders": {}
+  },
+  "incubationPeriodLabel": "Période d'incubation:",
+  "@incubationPeriodLabel": {
+    "description": "Label for incubation period",
+    "type": "text",
+    "placeholders": {}
+  },
+  "symptomsOnsetTitle": "Date de début de symptômes",
+  "@symptomsOnsetTitle": {
+    "description": "Page title for the symptoms onset calculator",
+    "type": "text",
+    "placeholders": {}
+  },
+  "symptomsStartLabel": "Début sympt. (estimé):",
+  "@symptomsStartLabel": {
+    "description": "Label for start of symptoms",
+    "type": "text",
+    "placeholders": {}
+  },
+  "symptomsOnsetBleeding": "Au début de symptômes, le patient a-t-il signalé des saignements?",
+  "@symptomsOnsetBleeding": {
+    "description": "Question if patient was bleeding on symptoms onset",
+    "type": "text",
+    "placeholders": {}
+  },
+  "symptomsOnsetBleedingDays": "Nombre de jours entre de début de symptômes de la maladie et le début des saignements:",
+  "@symptomsOnsetBleedingDays": {
+    "description": "Question of days between symptoms onset and bleeding",
+    "type": "text",
+    "placeholders": {}
+  },
+  "symptomsOnsetDiarrhea": "Au début de symptômes, le patient a-t-il signalé de la diarrhée?",
+  "@symptomsOnsetDiarrhea": {
+    "description": "Question if patient had diarrhea on symptoms onset",
+    "type": "text",
+    "placeholders": {}
+  },
+  "symptomsOnsetDiarrheaDays": "Nombre de jours entre de début de symptômes de la maladie et le début de la diarrhée:",
+  "@symptomsOnsetDiarrheaDays": {
+    "description": "Question of days between symptoms onset and diarrhea",
+    "type": "text",
+    "placeholders": {}
+  },
+  "exposureDatesTitle": "Dates d'exposition (estimées)",
+  "@exposureDatesTitle": {
+    "description": "Title for exposure dates",
+    "type": "text",
+    "placeholders": {}
+  },
+  "deathDateTitle": "Date du Décès",
+  "@deathDateTitle": {
+    "description": "Page title for the date of death calculator",
+    "type": "text",
+    "placeholders": {}
+  },
+  "deathDateSubtitle": "(En fonction de la date de décès)",
+  "@deathDateSubtitle": {
+    "description": "Subtitle for date of death calculator",
+    "type": "text",
+    "placeholders": {}
+  },
+  "deathDateLabel": "Date du décès:",
+  "@deathDateLabel": {
+    "description": "Label for the date of death",
+    "type": "text",
+    "placeholders": {}
+  },
+  "deathDateSymptomsOnset": "Temps qui s’écoule entre le début des symptômes et le décès (en general, entre 7 et 10 jours):",
+  "@deathDateSymptomsOnset": {
+    "description": "Question of number of days between symptoms and death",
+    "type": "text",
+    "placeholders": {}
+  },
+  "importantLabel": "Important:",
+  "@importantLabel": {
+    "description": "Important label",
+    "type": "text",
+    "placeholders": {}
+  },
+  "estimateWord": "estimation",
+  "@estimateWord": {
+    "description": "Estimate word used for translation and formatting",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noticeText1": "Cet outil de calcul estime la période pendant laquelle une personne a pu être exposée au virus Ebola.",
+  "@noticeText1": {
+    "description": "Disclaimer text block one",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noticeText2": "Cet outil peut être utilisé pour guider les enquêtes sur les cas en se  concentrant sur la période pendant laquelle une personne aurait pu être exposée au virus Ebola.",
+  "@noticeText2": {
+    "description": "Disclaimer text block two",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noticeText3": "Ceci ne fournira qu'une ",
+  "@noticeText3": {
+    "description": "Disclaimer text block three",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noticeText4": " de la fenêtre d'exposition. La période d'exposition réelle peut être différente.",
+  "@noticeText4": {
+    "description": "Disclaimer text block four",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noticeText5": "Les informations fournies par cet outil doivent être utilisées en collaboration avec d'autres informations connues sur le patient.",
+  "@noticeText5": {
+    "description": "Disclaimer text block five",
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmLabel": "VALIDER",
+  "@confirmLabel": {
+    "description": "Confirmation label",
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetLabel": "Réinitialiser",
+  "@resetLabel": {
+    "description": "Reset label",
+    "type": "text",
+    "placeholders": {}
+  }
+}
