@@ -2,7 +2,7 @@
 
 ## Ebola Exposure Window Calculator Application
 
-This software is provided as-is. This software only *estimates* an Ebola Exposure Window.
+This software is provided as-is. This software only *estimates* an Ebola Exposure Window. Please review our [Terms and Conditions of Use](TOC.md) before using the software
 
 Adapted from [https://github.com/cdcArmstrong/ebola_calc](https://github.com/cdcArmstrong/ebola_calc) for the [Google Flutter](https://flutter.dev) framework.
 
