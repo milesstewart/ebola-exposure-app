@@ -1,6 +1,5 @@
 Ebola Exposure Window Calculator Privacy Policy
 
-This privacy policy was last modified on September 5th, 2019.
+This privacy policy was last modified on January 15th, 2020.
 
-We do not collect or transmit any data entered into the application. All data entered stays on the device
-and is not shared with any external persons or systems.
+The App does not collect, permanently store, or transmit any personal data. JHU/APL does not know the identity of users of the App. All calculations of exposure windows are performed within the App without synchronization or data transmission to an external source.
